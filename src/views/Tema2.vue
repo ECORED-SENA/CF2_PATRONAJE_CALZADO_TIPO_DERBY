@@ -5,7 +5,22 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Tema 2
+      h1 Fichas técnicas de diseño
+
+    
+    Separador
+    <!-- BLOQUE  -->
+    #t_2_1.titulo-segundo.color-acento-contenido
+      h2 2.1 Características de la ficha técnica de diseño
+
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_2_2.titulo-segundo.color-acento-contenido
+      h2 2.2 Usos de la ficha técnica de diseño
+
+
 
 </template>
 

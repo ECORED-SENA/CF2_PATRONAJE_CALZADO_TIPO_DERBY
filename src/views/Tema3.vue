@@ -5,7 +5,25 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Tema 3
+      h1 Sistemas de medidas de calzado
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_3_1.titulo-segundo.color-acento-contenido
+      h2 3.1 Principales sistemas de numeración de calzado
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_3_2.titulo-segundo.color-acento-contenido
+      h2 3.2 Conversión básica entre sistemas
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_3_3.titulo-segundo.color-acento-contenido
+      h2 3.3 Medida de ancho o volumen del pie
 
 </template>
 

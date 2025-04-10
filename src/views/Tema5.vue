@@ -5,7 +5,20 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Tema 5
+      h1 Moldes
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_5_1.titulo-segundo.color-acento-contenido
+      h2 5.1 Tipos y características de los moldes
+
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_5_2.titulo-segundo.color-acento-contenido
+      h2 5.2 Procedimiento de referenciación de los moldes
 
 
 </template>

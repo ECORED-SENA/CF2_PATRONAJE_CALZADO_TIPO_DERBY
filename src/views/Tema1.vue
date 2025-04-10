@@ -5,7 +5,32 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Titulo de primer nivel
+      h1 Materiales e insumos para calzado
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_1_1.titulo-segundo.color-acento-contenido
+      h2 1.1 Cueros
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_1_2.titulo-segundo.color-acento-contenido
+      h2 1.2 Sintéticos
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_1_3.titulo-segundo.color-acento-contenido
+      h2 1.3 Textiles
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_1_4.titulo-segundo.color-acento-contenido
+      h2 1.4 Suelas
+
+
  
 </template>
 

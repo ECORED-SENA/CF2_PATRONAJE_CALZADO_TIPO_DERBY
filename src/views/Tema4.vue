@@ -5,7 +5,27 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Tema 4
+      h1 Hormas
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_4_1.titulo-segundo.color-acento-contenido
+      h2 4.1 Partes de la horma
+
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_4_2.titulo-segundo.color-acento-contenido
+      h2 4.2 Dimensiones de la horma
+
+
+
+    Separador
+    <!-- BLOQUE  -->
+    #t_4_3.titulo-segundo.color-acento-contenido
+      h2 4.3 Clasificación de las hormas
 
 
 </template>
