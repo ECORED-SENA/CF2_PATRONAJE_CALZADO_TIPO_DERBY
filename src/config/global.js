@@ -4,7 +4,7 @@ export default {
     Description:
       'El componente formativo desarrolla el patronaje de calzado <em>Oxford</em> y <em>Derby</em>, abordando materiales, hormas, moldes y sistemas de medidas. Explica los tipos de cuero, materiales sintéticos y textiles, junto con sus aplicaciones. También describe la estructura de las hormas, su clasificación y dimensiones, además de los moldes utilizados en la fabricación del calzado, garantizando ajuste y calidad.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
