@@ -176,6 +176,7 @@
                 img(src='@/assets/curso/tema1/img17.svg' style="max-width: 90px").m-auto
             h4.mb-3.estilo-text Cuero exótico (cocodrilo, serpiente, avestruz)
             p.mb-0 Presenta texturas únicas, patrones naturales llamativos y alto costo. Se utiliza en calzado de lujo y bolsos exclusivos.
+            
       Separador
       <!-- BLOQUE 2 -->
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
