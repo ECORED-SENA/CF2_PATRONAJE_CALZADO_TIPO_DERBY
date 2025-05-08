@@ -129,7 +129,7 @@
         figure(data-aos="fade-left")
           img(src="@/assets/curso/tema5/img10.png", alt="Marcación del centro en la punta y el talón de la horma usando una regla como guía." style="max-width: 500px").m-auto
     
-    .row(data-aos="fade-up")
+    .row
       .col-lg-1
       .col-lg-10.estilo_caja_8
         ol.lista-ol--cuadro.mb-4
