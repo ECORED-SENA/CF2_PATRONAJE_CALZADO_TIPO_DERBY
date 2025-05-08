@@ -365,7 +365,7 @@
     p.mb-5 Esta clasificación incluye los materiales más empleados en la fabricación de suelas, abarcando tanto compuestos naturales como sintéticos. Cada material se selecciona en función del tipo de calzado, el entorno de uso y las necesidades del usuario.
 
     .row.fondo-slider
-      .ajuste-slider(data-aos="fade-up")
+      .ajuste-slider(data-aos="fade-right")
         SlyderA(tipo="b")
           .row.h-100.justify-content-center.align-items-center
             .col-xl-6.mb-4.col-xs-12

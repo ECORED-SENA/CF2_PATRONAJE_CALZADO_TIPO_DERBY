@@ -93,10 +93,10 @@
 
     .row
       .col-lg-auto
-        .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-up")
+        .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
           h5 Figura 13. 
           span Puntos y líneas de referencia en el diseño del corte
-        figure(data-aos="fade-up")
+        figure(data-aos="fade-right")
           img.my-4.mb-4(src="@/assets/curso/tema6/img5.svg", alt="Dibujo  de una horma de calzado en vista lateral que resalta con líneas de colores las siguientes referencias: línea de profundidad, línea de chapeta, línea de entrada y línea de tobillo. " style="width: 500px").m-auto
       .col-lg.estilo___caja-tema6-3(data-aos="fade-left")
         <ul class="fa-ul">

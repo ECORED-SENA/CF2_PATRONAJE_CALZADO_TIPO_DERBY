@@ -502,11 +502,11 @@
       .col-lg-3
       .col-lg-6
         .row.justify-content-center
-          .col-lg-6.estilo___caja-tema3-4(data-aos="fade-up")
+          .col-lg-6.estilo___caja-tema3-4(data-aos="fade-right")
             figure.d-none.d-lg-block
               img(src="@/assets/curso/tema3/img10.svg", alt="" style="max-width: 80px").m-auto
             p.mb-0 Una entrada muy ajustada dificulta ponerse el zapato, especialmente en botas o mocasines.
-          .col-lg-6.estilo___caja-tema3-4(data-aos="fade-up")
+          .col-lg-6.estilo___caja-tema3-4(data-aos="fade-left")
             figure.d-none.d-lg-block
               img(src="@/assets/curso/tema3/img11.svg", alt="" style="max-width: 80px").m-auto
             p.mb-0 Una entrada muy amplia puede provocar que el pie se desplace, generando fricción e incomodidad.

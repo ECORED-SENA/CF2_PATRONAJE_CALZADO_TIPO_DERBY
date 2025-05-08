@@ -497,12 +497,12 @@
 
     .row.align-items-center
         .col-xl-4
-          .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-up")
+          .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
             h5 Figura 13. 
             span Herramientas utilizadas en el proceso de patronaje
           figure(data-aos="fade-right")
             img(src='@/assets/curso/tema4/img20.svg', alt='' style="max-width: 400px").m-auto
-        .col-xl-5.estilo___caja-tema4-7(data-aos="fade-up")
+        .col-xl-5.estilo___caja-tema4-7(data-aos="fade-right")
           ol.lista-ol--cuadro
             li
               .lista-ol--cuadro__vineta.ajuste__li

@@ -247,7 +247,7 @@
             | Por último se refilan los sobrantes de cinta y se realiza un corte por los ejes obtenidos, es decir el eje del empeine y del talón.
         .row
           .col-lg-2
-          .col-lg-8(data-aos="fade-up")
+          .col-lg-8(data-aos="fade-right")
             .titulo-sexto.color-acento-contenido.mb-3
               h5 Figura 22. 
               span Horma enmascarada con línea central marcada
