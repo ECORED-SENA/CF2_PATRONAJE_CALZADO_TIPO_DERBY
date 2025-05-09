@@ -276,7 +276,7 @@
       .row.h-100.align-items-center
         .col-xl-auto(data-aos="fade-right").d-none.d-xl-block
           figure
-          img(src="@/assets/curso/tema2/img1.png", alt="" style="width: 450px").m-auto
+            img(src="@/assets/curso/tema2/img1.png", alt="" style="width: 450px").m-auto
         .col-xl
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
             .row(titulo="Ancho de flancos").ajuste-cajaAcordion

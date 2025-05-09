@@ -254,10 +254,7 @@
             figure
               img(src="@/assets/curso/tema5/img19.png", alt="Horma completamente cubierta con cinta de enmascarar y línea central trazada sobre la superficie para guiar el diseño del patrón. " style="max-width: 500px")
         
-            
-
-
-
+          
 </template>
 
 <script>
