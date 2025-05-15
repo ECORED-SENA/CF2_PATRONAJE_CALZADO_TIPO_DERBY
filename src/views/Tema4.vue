@@ -26,7 +26,7 @@
           h5 Figura 2. 
           span Vista inferior de la horma con línea de referencia del punto de quiebre
         figure(data-aos="fade-left")
-          img.my-5.mb-5(src="@/assets/curso/tema4/img1.svg", alt="Vista lateral superior de una horma de calzado de madera con una línea roja horizontal que atraviesa el centro, marcando la alineación longitudinal de la horma. " style="max-width: 500px").m-auto
+          img.my-5.mb-5(src="@/assets/curso/tema4/img1.svg", alt="Vista lateral superior de una horma de calzado de madera con una línea roja horizontal que atraviesa el centro, marcando la alineación longitudinal de la horma. ").m-auto
         figcaption Nota. Imagen tomada de  Motawi, W. M., & Motawi, A. M. (2021).
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
@@ -48,7 +48,7 @@
           h5 Figura 3. 
           span Vista lateral de la horma con línea del frente del tacón
         figure(data-aos="fade-left")
-          img.my-3.mb-3(src="@/assets/curso/tema4/img2.svg", alt="Vista lateral de una horma de calzado de madera con una línea vertical roja que indica la ubicación del punto de apoyo más alto del empeine. " style="max-width: 580px").m-auto
+          img.my-3.mb-3(src="@/assets/curso/tema4/img2.svg", alt="Vista lateral de una horma de calzado de madera con una línea vertical roja que indica la ubicación del punto de apoyo más alto del empeine. ").m-auto
         figcaption Nota. Imagen tomada de  Motawi, W. M., & Motawi, A. M. (2021).
 
     p.mb-5 A continuación se presentan los elementos más representativos de una horma, los cuales cumplen funciones específicas en el proceso de fabricación del calzado:
@@ -60,7 +60,7 @@
             h5 Figura 4. 
             span Vista superior de la horma con partes funcionales señaladas
           figure
-            img.ajuste__espacio-tema4-1(src="@/assets/curso/tema4/img3.svg", alt="Vista superior de una horma de calzado de madera con etiquetas que señalan partes clave: cono (zona delantera), bisagra (unión móvil), apertura (ranura central), talla (marca de medida), tubo (perforación central) y mesa (base trasera)." style="width: 400px").m-auto
+            img.ajuste__espacio-tema4-1(src="@/assets/curso/tema4/img3.svg", alt="Vista superior de una horma de calzado de madera con etiquetas que señalan partes clave: cono (zona delantera), bisagra (unión móvil), apertura (ranura central), talla (marca de medida), tubo (perforación central) y mesa (base trasera).").m-auto
           figcaption Nota. Imagen tomada de  Motawi, W. M., & Motawi, A. M. (2021).
         .col-xl.ajustes___movil-3
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
@@ -79,8 +79,7 @@
     
     p.mb-5.ajustes___movil-1 Además de las partes principales, existen componentes que cumplen funciones específicas en el diseño y la funcionalidad de la horma:
 
-    .row.mb-5.align-items-center(data-aos="fade-up").ajustes___movil-1
-      .col-xl-1
+    .row.mb-5.align-items-center.justify-content-center(data-aos="fade-up").ajustes___movil-1
       .col-xl-10
         .row.align-items-center
           .col-lg.estilo___caja-tema4-2
@@ -94,7 +93,7 @@
               h5 Figura 5. 
               span Perfil lateral de la horma con elementos constructivos
             figure(data-aos="fade-left")
-              img.my-2.mb-2(src="@/assets/curso/tema4/img4.svg", alt="Vista lateral de una horma de madera que destaca elementos estructurales clave: perfil de la puntera, cono, orificios, apertura y talón. " style="max-width: 500px").m-auto
+              img.my-2.mb-2(src="@/assets/curso/tema4/img4.svg", alt="Vista lateral de una horma de madera que destaca elementos estructurales clave: perfil de la puntera, cono, orificios, apertura y talón. ").m-auto
             figcaption Nota. Imagen tomada de  Motawi, W. M., & Motawi, A. M. (2021).
 
     p.mb-5 Estos elementos aportan soporte, protección y facilitan el proceso de fabricación del calzado:
@@ -106,7 +105,7 @@
             h5 Figura 6. 
             span Vista inferior de horma con componentes de montaje
           figure
-            img(src="@/assets/curso/tema4/img5.svg", alt="Vista inferior de una horma antigua de madera donde se identifican elementos funcionales del montaje: placa para montar, canto, enfranque, agujero para tachuelas o clavos y taco." style="width: 400px").m-auto
+            img(src="@/assets/curso/tema4/img5.svg", alt="Vista inferior de una horma antigua de madera donde se identifican elementos funcionales del montaje: placa para montar, canto, enfranque, agujero para tachuelas o clavos y taco.").m-auto
           figcaption Nota. Imagen tomada de  Motawi, W. M., & Motawi, A. M. (2021).
         .col-xl.ajustes___movil-3
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
@@ -137,7 +136,7 @@
             h5 Figura 7. 
             span Zonas técnicas de inclinación y soporte de la horma
           figure
-            img.mt-5.mb-3(src="@/assets/curso/tema4/img6.svg", alt="Imagen lateral de una horma verde que identifica partes esenciales: cono, punto de quiebre, enfranque, ángulo del asiento del talón y curva del talón." style="width: 400px").m-auto
+            img.mt-5.mb-3(src="@/assets/curso/tema4/img6.svg", alt="Imagen lateral de una horma verde que identifica partes esenciales: cono, punto de quiebre, enfranque, ángulo del asiento del talón y curva del talón.").m-auto
           figcaption Nota. Imagen tomada de  Motawi, W. M., & Motawi, A. M. (2021).
         .col-xl.ajustes___movil-3
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
@@ -159,7 +158,7 @@
             h5 Figura 8. 
             span Referencias geométricas principales en la base de la horma
           figure
-            img.mt-5.mb-5(src="@/assets/curso/tema4/img7.svg", alt="Vista inferior de una horma verde donde se señalan referencias clave para el diseño del calzado: puntera, delantera, punto y línea de enfranque, línea del frente del tacón, canto plano del tacón y talonera. " style="width: 400px").m-auto
+            img.mt-5.mb-5(src="@/assets/curso/tema4/img7.svg", alt="Vista inferior de una horma verde donde se señalan referencias clave para el diseño del calzado: puntera, delantera, punto y línea de enfranque, línea del frente del tacón, canto plano del tacón y talonera. ").m-auto
           figcaption Nota. Imagen tomada de  Motawi, W. M., & Motawi, A. M. (2021).
         .col-xl.ajustes___movil-3
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
@@ -224,7 +223,7 @@
             h5 Figura 9. 
             span Medición de perímetros y longitud de la horma
           figure
-            img.ajuste__espacio-tema4(src="@/assets/curso/tema4/img8.svg", alt="Imagen lateral de una horma verde con cintas amarillas marcando tres medidas clave: perímetro de la bola, perímetro de retención, perímetro de empeine y longitud de la horma. " style="width: 400px").m-auto
+            img.ajuste__espacio-tema4(src="@/assets/curso/tema4/img8.svg", alt="Imagen lateral de una horma verde con cintas amarillas marcando tres medidas clave: perímetro de la bola, perímetro de retención, perímetro de empeine y longitud de la horma. ").m-auto
           figcaption Nota. Imagen tomada de  Motawi, W. M., & Motawi, A. M. (2021).
         .col-xl.ajustes___movil-3
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
@@ -260,7 +259,7 @@
           h5 Figura 10. 
           span Medidas verticales y de perímetro desde vista lateral
         figure(data-aos="fade-left")
-          img(src="@/assets/curso/tema4/img9.svg", alt="Imagen lateral de una horma verde que presenta medidas clave para el diseño de calzado: perímetro talón-empeine, perímetro talón-cuello, altura del tacón, longitud de calce, salida y altura de la puntera. " style="max-width: 500px").m-auto
+          img(src="@/assets/curso/tema4/img9.svg", alt="Imagen lateral de una horma verde que presenta medidas clave para el diseño de calzado: perímetro talón-empeine, perímetro talón-cuello, altura del tacón, longitud de calce, salida y altura de la puntera. ").m-auto
         figcaption Nota. Imagen tomada de  Motawi, W. M., & Motawi, A. M. (2021).
 
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
@@ -292,14 +291,13 @@
             .row(titulo="Ancho de mesa").ajuste-cajaAcordion
               p.mb-0 Se toma transversalmente en la parte superior de la horma, sobre la placa superior, desde el lado medial hasta el lateral.
 
-    .row.ajustes___movil-1
-      .col-lg-3
+    .row.ajustes___movil-1.justify-content-center
       .col-lg-6
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-up")
           h5 Figura 11. 
           span Vista posterior y superior de la horma con medidas clave
         figure(data-aos="fade-up")
-          img.my-4.mb-4(src="@/assets/curso/tema4/img10.svg", alt="Vista inferior y frontal de una horma verde que ilustra las principales medidas plantares utilizadas en el diseño de calzado: longitud plantar, ancho de flancos, anchura plantar, anchura de la cintura y anchura del talón. " style="width: 400px").m-auto
+          img.my-4.mb-4(src="@/assets/curso/tema4/img10.svg", alt="Vista inferior y frontal de una horma verde que ilustra las principales medidas plantares utilizadas en el diseño de calzado: longitud plantar, ancho de flancos, anchura plantar, anchura de la cintura y anchura del talón. ").m-auto
         figcaption Nota. Imagen tomada de  Motawi, W. M., & Motawi, A. M. (2021).
 
     Separador
@@ -399,7 +397,7 @@
               h4.mb-4 Horma entera
               p.mb-0 Horma completa sin divisiones ni mecanismos. Usada en sandalias, zapatos de salón y zapatos con diseño abierto que permiten deshormado sin dificultad.
             .col-xl-6
-              figure.d-none.d-xl-block
+              figure
                 img(src='@/assets/curso/tema4/img15.svg', alt='' style="max-width: 400px").m-auto
 
           .row.h-100.justify-content-center.align-items-center
@@ -407,7 +405,7 @@
               h4.mb-4 Horma con cuña
               p.mb-0 Incorpora una pieza divisible en la zona del empeine que se separa para facilitar el deshormado. Indicada para zapatos abotinados o botines. Muy utilizada en botas y zapatos abotinados.
             .col-xl-6
-              figure.d-none.d-xl-block
+              figure
                 img(src='@/assets/curso/tema4/img16.svg', alt='' style="max-width: 400px").m-auto
 
           .row.h-100.justify-content-center.align-items-center
@@ -415,7 +413,7 @@
               h4.mb-4 Horma con articulado Alfa (V)
               p.mb-0 Tiene una bisagra que permite la reducción y apertura de la horma.
             .col-xl-6
-              figure.d-none.d-xl-block
+              figure
                 img(src='@/assets/curso/tema4/img17.svg', alt='' style="max-width: 400px").m-auto
 
           .row.h-100.justify-content-center.align-items-center
@@ -423,7 +421,7 @@
               h4.mb-4 Horma con articulado Tendo (Kiowa)
               p.mb-0 El talón se desliza hacia arriba sin torsionar el calzado. Reduce la horma durante la extracción. Ideal para calzado plano y botas de baja altura.
             .col-xl-6
-              figure.d-none.d-xl-block
+              figure
                 img(src='@/assets/curso/tema4/img18.svg', alt='' style="max-width: 400px").m-auto
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
@@ -477,14 +475,13 @@
     
     p.mb-5 A medida que la talla aumenta, también lo hace la altura necesaria del tacón para mantener la misma proporción ergonómica y estética en el diseño del calzado.
     
-    .row.mb-4
-      .col-lg-3
+    .row.mb-4.justify-content-center
       .col-lg-6
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-up")
           h5 Figura 12. 
           span Relación entre la talla y la altura del tacón
         figure(data-aos="fade-up")
-          img.my-4.mb-4(src="@/assets/curso/tema4/img19.svg", alt="Ilustración de varias hormas de calzado representadas por curvas superpuestas, cada una correspondiente a una talla distinta, desde la 1½ hasta la 8½. " style="width: 700px").m-auto
+          img.my-4.mb-4(src="@/assets/curso/tema4/img19.svg", alt="Ilustración de varias hormas de calzado representadas por curvas superpuestas, cada una correspondiente a una talla distinta, desde la 1½ hasta la 8½. ").m-auto
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -501,7 +498,7 @@
             h5 Figura 13. 
             span Herramientas utilizadas en el proceso de patronaje
           figure(data-aos="fade-right")
-            img(src='@/assets/curso/tema4/img20.svg', alt='' style="max-width: 400px").m-auto
+            img(src='@/assets/curso/tema4/img20.svg', alt='' ).m-auto
         .col-xl-5.estilo___caja-tema4-7(data-aos="fade-right")
           ol.lista-ol--cuadro
             li

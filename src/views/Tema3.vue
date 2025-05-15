@@ -27,25 +27,31 @@
 
     .row.mb-5.align-items-center.ajustes___movil-1
       .col-xl
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3 Uso
-            p.mb-0.estilo-text-tema3_1.ajuste___5 Internacional, principalmente en calzado militar, deportivo y técnico.
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___1 Medida base
-            p.mb-0.estilo-text-tema3_1.ajuste___4.ajuste___movil_tema3 Longitud del pie en milímetros.
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___2 Características
-            p.mb-0.estilo-text-tema3_1 Se basa en la medida real del pie. Puede incluir también el ancho (Por ejemplo 260/100 indica 260 mm de largo y 100 mm de ancho). Recomendado por la Organización Internacional de Normalización(150). 
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___3 Diferencias
-            p.mb-0.estilo-text-tema3_1 Es el sistema más preciso, pero menos usado en el comercio minorista.No depende del diseño del zapato.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3
+            p.mb-0 Uso
+          .col-lg.estilo-text-tema3_1
+            p.mb-0 Internacional, principalmente en calzado militar, deportivo y técnico.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3
+            p.mb-0 Medida base
+          .col-lg.estilo-text-tema3_1
+            p.mb-0 Longitud del pie en milímetros.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3
+            p.mb-0 Características
+          .col-lg.estilo-text-tema3_1
+            p.mb-0 Se basa en la medida real del pie. Puede incluir también el ancho (Por ejemplo 260/100 indica 260 mm de largo y 100 mm de ancho). Recomendado por la Organización Internacional de Normalización(150).
+        .row.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3
+            p.mb-0 Diferencias
+          .col-lg.estilo-text-tema3_1
+            p.mb-0 Es el sistema más preciso, pero menos usado en el comercio minorista.No depende del diseño del zapato.
       .col-xl-auto
         figure(data-aos="fade-left").d-none.d-xl-block
           img(src="@/assets/curso/tema3/img1.svg", alt="" style="max-width: 500px").m-auto
+
+  
 
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -58,22 +64,26 @@
 
     .row.mb-5.align-items-center.ajustes___movil-1
       .col-xl
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___color_1 Uso
-            p.mb-0.estilo-text-tema3_1.ajuste___6.ajuste___9.ajuste___color_2 Europa y gran parte del mundo.
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___7.ajuste___10.ajuste___color_1 Medida base
-            p.mb-0.estilo-text-tema3_1.ajuste___8.ajuste___color_2 Longitud de la horma en puntos franceses (1 punto= 6.66 mm).
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___2.ajuste___color_1 Características
-            p.mb-0.estilo-text-tema3_1.ajuste___color_2 Mide la longitud de la horma, no del pie. No diferencia entre tallas de hombres, mujeres y niños. No contempla el ancho del pie. 
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___3.ajuste___color_1 Diferencias
-            p.mb-0.estilo-text-tema3_1.ajuste___color_2 El incremento entre tallas es de 6.66 mm. Es el sistema más común entre marcas europeas.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3.ajuste___color_1
+            p.mb-0 Uso
+          .col-lg.estilo-text-tema3_1.ajuste___color_2
+            p.mb-0 Europa y gran parte del mundo.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3.ajuste___color_1
+            p.mb-0 Medida base
+          .col-lg.estilo-text-tema3_1.ajuste___color_2
+            p.mb-0 Longitud de la horma en puntos franceses (1 punto= 6.66 mm).
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3.ajuste___color_1
+            p.mb-0 Características
+          .col-lg.estilo-text-tema3_1.ajuste___color_2
+            p.mb-0 Mide la longitud de la horma, no del pie. No diferencia entre tallas de hombres, mujeres y niños. No contempla el ancho del pie. 
+        .row.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3.ajuste___color_1
+            p.mb-0 Diferencias
+          .col-lg.estilo-text-tema3_1.ajuste___color_2
+            p.mb-0 El incremento entre tallas es de 6.66 mm. Es el sistema más común entre marcas europeas.
       .col-xl-auto
         figure(data-aos="fade-left").d-none.d-xl-block
           img(src="@/assets/curso/tema3/img2.svg", alt="" style="max-width: 500px").m-auto
@@ -89,22 +99,26 @@
 
     .row.mb-5.align-items-center.ajustes___movil-1
       .col-xl
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___color_3 Uso
-            p.mb-0.estilo-text-tema3_1.ajuste___color_4.ajuste___11.ajuste___14 Reino Unido, India, países de la <em>Commowealth</em>.
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___color_3.ajuste___12 Medida base
-            p.mb-0.estilo-text-tema3_1.ajuste___color_4.ajuste___13.ajuste___15 Longitud de la horma en pulgadas.
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___color_3.ajuste___2 Características
-            p.mb-0.estilo-text-tema3_1.ajuste___color_4 Similar al sistema estadounidense, pero con punto de inicio distinto. Usa 4 pulgadas como referencia para la talla 0. Incremento entre tallas de 1/3 de pulgada (8.46mm).
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___color_3.ajuste___3 Diferencias
-            p.mb-0.estilo-text-tema3_1.ajuste___color_4 Las tallas UK son una unidad menos que las tallas US ( ejemplo: UK8= US 9). Tiene menos variación entre tallas masculinas y femeninas. 
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3.ajuste___color_3
+            p.mb-0 Uso
+          .col-lg.estilo-text-tema3_1.ajuste___color_4
+            p.mb-0 Reino Unido, India, países de la <em>Commowealth</em>.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3.ajuste___color_3
+            p.mb-0 Medida base
+          .col-lg.estilo-text-tema3_1.ajuste___color_4
+            p.mb-0 Longitud de la horma en pulgadas.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3.ajuste___color_3
+            p.mb-0 Características
+          .col-lg.estilo-text-tema3_1.ajuste___color_4
+            p.mb-0 Similar al sistema estadounidense, pero con punto de inicio distinto. Usa 4 pulgadas como referencia para la talla 0. Incremento entre tallas de 1/3 de pulgada (8.46mm).
+        .row.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3.ajuste___color_3
+            p.mb-0 Diferencias
+          .col-lg.estilo-text-tema3_1.ajuste___color_4
+            p.mb-0 Las tallas UK son una unidad menos que las tallas US ( ejemplo: UK8= US 9). Tiene menos variación entre tallas masculinas y femeninas. 
       .col-xl-auto
         figure(data-aos="fade-left").d-none.d-xl-block
           img(src="@/assets/curso/tema3/img3.svg", alt="" style="max-width: 500px").m-auto
@@ -120,22 +134,26 @@
 
     .row.align-items-center.ajustes___movil-1
       .col-xl
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___color_5 Uso
-            p.mb-0.estilo-text-tema3_1.ajuste___color_6.ajuste___16.ajuste___17 Estados Unidos y Canadá.
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___color_5.ajuste___12 Medida base
-            p.mb-0.estilo-text-tema3_1.ajuste___color_6.ajuste___13.ajuste___15 Longitud de la horma en pulgadas.
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___color_5.ajuste___2 Características
-            p.mb-0.estilo-text-tema3_1.ajuste___color_6 Existen tallas separadas para hombres, mujeres y niños. Se basa en sistemas inglés, pero inicia 2,116mm antes. Incremento entre tallas: 1/3 de pulgadas (8.46mm).
-        .row.align-items-center.mb-3(data-aos="fade-right")
-          .col-lg-auto.d-flex
-            p.mb-0.estilo-text-tema3.ajuste___color_5.ajuste___3 Diferencias
-            p.mb-0.estilo-text-tema3_1.ajuste___color_6 Para hombres, la talla 0 equivale a 7 2 /3 pulgadas. Para mujeres, las Tallas son 1.5 unidades más altas que en hombres (Ejemplo: us 9.5W)
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3.ajuste___color_5
+            p.mb-0 Uso
+          .col-lg.estilo-text-tema3_1.ajuste___color_6
+            p.mb-0 Estados Unidos y Canadá.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3.ajuste___color_5
+            p.mb-0 Medida base
+          .col-lg.estilo-text-tema3_1.ajuste___color_6
+            p.mb-0 Longitud de la horma en pulgadas.
+        .row.mb-2.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3.ajuste___color_5
+            p.mb-0 Características
+          .col-lg.estilo-text-tema3_1.ajuste___color_6
+            p.mb-0 Existen tallas separadas para hombres, mujeres y niños. Se basa en sistemas inglés, pero inicia 2,116mm antes. Incremento entre tallas: 1/3 de pulgadas (8.46mm).
+        .row.m-0(data-aos="fade-right")
+          .col-lg-4.estilo-text-tema3.ajuste___color_5
+            p.mb-0 Diferencias
+          .col-lg.estilo-text-tema3_1.ajuste___color_6
+            p.mb-0 Para hombres, la talla 0 equivale a 7 2 /3 pulgadas. Para mujeres, las Tallas son 1.5 unidades más altas que en hombres (Ejemplo: us 9.5W).
       .col-xl-auto
         figure(data-aos="fade-left").d-none.d-xl-block
           img(src="@/assets/curso/tema3/img4.svg", alt="" style="max-width: 500px").m-auto
@@ -184,8 +202,7 @@
         figure(data-aos="fade-left").d-none.d-xl-block
           img(src="@/assets/curso/tema3/img5.png", alt="" style="max-width: 300px").m-auto
 
-    .row
-      .col-xl-1
+    .row.justify-content-center
       .col-xl-10
         p.mb-5 Para mayor precisión, se recomienda utilizar las tablas oficiales proporcionadas por cada marca, ya que la horma puede variar entre fabricantes. Además, no solo debe considerarse la longitud, sino también el ajuste general del calzado, sobre todo en modelos deportivos o de seguridad.
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
@@ -267,14 +284,13 @@
 
     p.mb-5.ajustes___movil-1 Además de la longitud, el ancho del pie es determinante para lograr un ajuste adecuado. Las diferencias morfológicas entre personas requieren medidas adicionales para asegurar <em>confort</em>, soporte y funcionalidad, especialmente en calzado técnico. Las tres medidas más empleadas para el modelaje de calzado son:
 
-    .row.mb-5
-      .col-xl-3
+    .row.mb-5.justify-content-center
       .col-xl-6
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
           h5 Figura 1. 
           span Zonas anatómicas del pie utilizadas en el diseño de la horma
         figure(data-aos="fade-up")
-          img(src="@/assets/curso/tema3/img6.svg", alt="Diagrama del contorno de un pie con líneas y flechas que indican tres zonas: metatarsos (zona delantera), empeine (zona media elevada) y entrada (zona trasera donde el pie entra al calzado). " style="max-width: 500px").m-auto
+          img(src="@/assets/curso/tema3/img6.svg", alt="Diagrama del contorno de un pie con líneas y flechas que indican tres zonas: metatarsos (zona delantera), empeine (zona media elevada) y entrada (zona trasera donde el pie entra al calzado).").m-auto
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -286,8 +302,7 @@
     p.mb-1.ajustes___movil-1 Esta medida se toma rodeando la zona más ancha del pie (metatarsos). Permite establecer el ancho base a partir de la longitud total del pie. 
     h4.mb-4 La fórmula más utilizada es:
 
-    .row.mb-5
-      .col-xl-3
+    .row.mb-5.justify-content-center
       .col-xl-6
         .row.align-items-center.estilo___caja-tema3-1(data-aos="fade-up")
           .col-xl-auto
@@ -298,8 +313,7 @@
 
     p.mb-5.ajustes___movil-1 Esta medida varía según el público objetivo:
 
-    .row.mb-5.ajustes___movil-1
-      .col-xl-3
+    .row.mb-5.ajustes___movil-1.justify-content-center
       .col-xl-6
         .row.align-items-center(data-aos="fade-up")
           .col-lg-4
@@ -498,8 +512,7 @@
 
     p.mb-3.ajustes___movil-1 Corresponde a la medida de la apertura del calzado. Esta dimensión influye directamente en la facilidad para calzarse y en la seguridad del ajuste.
 
-    .row
-      .col-lg-3
+    .row.justify-content-center
       .col-lg-6
         .row.justify-content-center
           .col-lg-6.estilo___caja-tema3-4(data-aos="fade-right")

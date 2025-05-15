@@ -60,33 +60,32 @@
     
     p.mb-5 A continuación, se presentan los elementos clave utilizados en el diseño de hormas para calzado, los cuales permiten identificar proporciones, simetrías y zonas funcionales del pie:
 
-    .row.mb-5(data-aos="fade-up")
-      .col-xl-1
+    .row.mb-5.justify-content-center(data-aos="fade-up")
       .col-xl-10
         .row
-          .col-auto.estilo___caja-tema6
+          .col-lg-auto.estilo___caja-tema6
             h4.mb-0 Línea metatarsiana
-          .col.estilo___caja-tema6-1
+          .col-lg.estilo___caja-tema6-1
             p.mb-0 Conecta los puntos metatarsianos. Define la zona de flexión natural del pie.
         .row
-          .col-auto.estilo___caja-tema6-2.ajuste___widht
+          .col-lg-auto.estilo___caja-tema6-2.ajuste___widht
             h4.mb-0 Punto de calzada
-          .col.estilo___caja-tema6-3
+          .col-lg.estilo___caja-tema6-3
             p.mb-0 Intersección entre la línea metatarsiana y el eje de empeine; divide simétricamente la horma.
         .row
-          .col-auto.estilo___caja-tema6.ajuste___widht
+          .col-lg-auto.estilo___caja-tema6.ajuste___widht
             h4.mb-0 Punto de atraque
-          .col.estilo___caja-tema6-1
+          .col-lg.estilo___caja-tema6-1
             p.mb-0 Ubicado en la línea metatarsiana, se puede desplazar según el diseño.
         .row
-          .col-auto.estilo___caja-tema6-2.ajuste___widht
+          .col-lg-auto.estilo___caja-tema6-2.ajuste___widht
             h4.mb-0 Punto de entrada
-          .col.estilo___caja-tema6-3
+          .col-lg.estilo___caja-tema6-3
             p.mb-0 Se ubica desde el punto de calzada hacia la boca, sumando a la talla de horma +28 mm (dama o niño) o +30 mm (hombre). Marca una zona de flexión entre el antepié y el resto del pie.
         .row
-          .col-auto.estilo___caja-tema6.ajuste___widht-1
+          .col-lg-auto.estilo___caja-tema6.ajuste___widht-1
             h4.mb-0 Eje de talón
-          .col.estilo___caja-tema6-1
+          .col-lg.estilo___caja-tema6-1
             p.mb-0 Divide el talón en dos partes simétricas.
 
     p.mb-5 Estos elementos adicionales complementan el diseño técnico de la horma, facilitando el ajuste, la funcionalidad y la estética del calzado:
@@ -94,10 +93,10 @@
     .row
       .col-lg-auto
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
-          h5 Figura 13. 
+          h5 Figura 23. 
           span Puntos y líneas de referencia en el diseño del corte
         figure(data-aos="fade-right")
-          img.my-4.mb-4(src="@/assets/curso/tema6/img5.svg", alt="Dibujo  de una horma de calzado en vista lateral que resalta con líneas de colores las siguientes referencias: línea de profundidad, línea de chapeta, línea de entrada y línea de tobillo. " style="width: 500px").m-auto
+          img.my-4.mb-4(src="@/assets/curso/tema6/img5.svg", alt="Dibujo  de una horma de calzado en vista lateral que resalta con líneas de colores las siguientes referencias: línea de profundidad, línea de chapeta, línea de entrada y línea de tobillo. ").m-auto
       .col-lg.estilo___caja-tema6-3(data-aos="fade-left")
         <ul class="fa-ul">
           <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Línea de profundidad</strong>: conecta el punto de altura de talón con el punto de atraque o remate.</li>
