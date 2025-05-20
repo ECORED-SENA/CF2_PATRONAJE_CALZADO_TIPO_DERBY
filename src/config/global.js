@@ -60,40 +60,45 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Fichas técnicas de diseño',
+        titulo: 'Hormas',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Características de la ficha técnica de diseño',
+            titulo: 'Partes de la horma',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Usos de la ficha técnica de diseño',
+            titulo: 'Dimensiones de la horma',
             hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Clasificación de las hormas',
+            hash: 't_2_3',
           },
         ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Sistemas de medidas de calzado',
+        titulo: 'Relación entre la anatomía del calzado y el pie',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Principales sistemas de numeración de calzado',
+            titulo: 'Clasificación según la forma del pie',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Conversión básica entre sistemas',
+            titulo: 'Clasificación según el tipo de arco plantar',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Medida de ancho o volumen del pie',
+            titulo: 'Clasificación según la pisada',
             hash: 't_3_3',
           },
         ],
@@ -101,43 +106,14 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Hormas',
+        titulo: 'Herramientas utilizadas en el proceso de patronaje',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '4.1',
-            titulo: 'Partes de la horma',
-            hash: 't_4_1',
-          },
-          {
-            numero: '4.2',
-            titulo: 'Dimensiones de la horma',
-            hash: 't_4_2',
-          },
-          {
-            numero: '4.3',
-            titulo: 'Clasificación de las hormas',
-            hash: 't_4_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Moldes',
+        titulo: 'Proceso de enmascarado de la horma',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '5.1',
-            titulo: 'Tipos y características de los moldes',
-            hash: 't_5_1',
-          },
-          {
-            numero: '5.2',
-            titulo: 'Procedimiento de referenciación de los moldes',
-            hash: 't_5_2',
-          },
-        ],
       },
     ],
     subMenu: [

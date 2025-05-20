@@ -7,76 +7,67 @@
         span 4
       h1 Herramientas utilizadas en el proceso de patronaje
 
-    p.mb-4 Antes de iniciar el proceso de enmascarado, es fundamental realizar el alistamiento de las herramientas necesarias para llevar a cabo esta actividad de manera eficiente. A continuación, se presentan las herramientas requeridas.
-
-    .row.align-items-center
-      .col-xl-4
-        .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
-          h5 Figura 13. 
-          span Herramientas utilizadas en el proceso de patronaje
-        figure(data-aos="fade-right")
-          img(src='@/assets/curso/tema4/img20.svg', alt='' ).m-auto
-      .col-xl-5.estilo___caja-tema4-7(data-aos="fade-right")
-        ol.lista-ol--cuadro
-          li
-            .lista-ol--cuadro__vineta.ajuste__li
-              span 1
-            | <strong>Cuchilla de corte</strong>
-        ol.lista-ol--cuadro
-          li
-            .lista-ol--cuadro__vineta.ajuste__li
-              span 2
-            | <strong>Borrador</strong>
-        ol.lista-ol--cuadro
-          li
-            .lista-ol--cuadro__vineta.ajuste__li
-              span 3
-            | <strong>Compas de puntas secas o compas de precisión</strong>
-        ol.lista-ol--cuadro
-          li
-            .lista-ol--cuadro__vineta.ajuste__li
-              span 4
-            | <strong>Regla metálica de 15 cm</strong>
-        ol.lista-ol--cuadro
-          li
-            .lista-ol--cuadro__vineta.ajuste__li
-              span 5
-            | <strong>Portaminas</strong>
-        ol.lista-ol--cuadro
-          li
-            .lista-ol--cuadro__vineta.ajuste__li
-              span 6
-            | <strong>Tijeras</strong>
-        ol.lista-ol--cuadro
-          li
-            .lista-ol--cuadro__vineta.ajuste__li
-              span 7
-            | <strong>Cinta de enmascarar</strong>
-        ol.lista-ol--cuadro
-          li
-            .lista-ol--cuadro__vineta.ajuste__li
-              span 8
-            | <strong>Piedra de afilar</strong>
-        ol.lista-ol--cuadro
-          li
-            .lista-ol--cuadro__vineta.ajuste__li
-              span 9
-            | <strong>Regla metálica de 30 cm</strong>
-        ol.lista-ol--cuadro
-          li
-            .lista-ol--cuadro__vineta.ajuste__li
-              span 10
-            | <strong>Metro de calzado o cinta métrica</strong>
-        ol.lista-ol--cuadro
-          li
-            .lista-ol--cuadro__vineta.ajuste__li
-              span 11
-            | <strong>Tabla de corte</strong>
-      .col-xl-3
-        figure.d-none.d-xl-block(data-aos="fade-left")
-          img(src='@/assets/curso/tema4/img21.png', alt='' style="max-width: 300px").m-auto    
-
+    .row.align-items-center.mb-5
+      .col-xl
+        p.mb-0 Antes de iniciar el proceso de enmascarado, es fundamental realizar el alistamiento de las herramientas necesarias para llevar a cabo esta actividad de manera eficiente. A continuación, se presentan las herramientas requeridas.
+      .col-xl-auto
+        figure(data-aos="fade-left").d-none.d-xl-block
+          img(src="@/assets/curso/tema4/img22.svg", alt="" style="max-width: 295px").m-auto
     
+    .titulo-sexto.color-acento-contenido.mb-4.ajustes___movil-1(data-aos="fade-right")
+      h5 Figura 13. 
+      span Herramientas utilizadas en el proceso de patronaje
+    
+    .row.align-items-center.estilo___caja_3.m-0(data-aos="zoom-in")
+      .col-xl-auto
+        figure
+          img(src='@/assets/curso/tema4/img20.svg', alt='' style="max-width: 500px").m-auto
+      .col-xl.ajustes___movil-3
+        ol.lista-ol
+          li 
+            span.text-bold 1. 
+            | Cuchilla de corte.
+        ol.lista-ol
+          li 
+            span.text-bold 2. 
+            | Borrador.
+        ol.lista-ol
+          li 
+            span.text-bold 3. 
+            | Compás de puntas secas o compás de precisión.
+        ol.lista-ol
+          li 
+            span.text-bold 4. 
+            | Regla metálica de 15 cm.
+        ol.lista-ol
+          li 
+            span.text-bold 5. 
+            | Portaminas.
+        ol.lista-ol
+          li 
+            span.text-bold 6. 
+            | Tijeras.
+        ol.lista-ol
+          li 
+            span.text-bold 7. 
+            | Cinta de enmascarar.
+        ol.lista-ol
+          li 
+            span.text-bold 8. 
+            | Piedra de afilar.
+        ol.lista-ol
+          li 
+            span.text-bold 9. 
+            | Regla metálica de 30 cm.
+        ol.lista-ol
+          li 
+            span.text-bold 10. 
+            | Metro de calzado o cinta métrica.
+        ol.lista-ol
+          li 
+            span.text-bold 11. 
+            | Tabla de corte.
+
 </template>
 
 <script>

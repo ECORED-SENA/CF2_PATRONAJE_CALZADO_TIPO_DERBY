@@ -25,7 +25,7 @@
           h5 Figura 2. 
           span Vista inferior de la horma con línea de referencia del punto de quiebre
         figure(data-aos="fade-left")
-          img.my-5.mb-5(src="@/assets/curso/tema4/img1.svg", alt="Vista lateral superior de una horma de calzado de madera con una línea roja horizontal que atraviesa el centro, marcando la alineación longitudinal de la horma. ").m-auto
+          img.my-4.mb-4(src="@/assets/curso/tema4/img1.svg", alt="Vista lateral superior de una horma de calzado de madera con una línea roja horizontal que atraviesa el centro, marcando la alineación longitudinal de la horma. ").m-auto
         figcaption Nota. Imagen tomada de  Motawi, W. M., & Motawi, A. M. (2021).
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
@@ -59,7 +59,7 @@
             h5 Figura 4. 
             span Vista superior de la horma con partes funcionales señaladas
           figure
-            img.ajuste__espacio-tema4-1(src="@/assets/curso/tema4/img3.svg", alt="Vista superior de una horma de calzado de madera con etiquetas que señalan partes clave: cono (zona delantera), bisagra (unión móvil), apertura (ranura central), talla (marca de medida), tubo (perforación central) y mesa (base trasera).").m-auto
+            img(src="@/assets/curso/tema4/img3.svg", alt="Vista superior de una horma de calzado de madera con etiquetas que señalan partes clave: cono (zona delantera), bisagra (unión móvil), apertura (ranura central), talla (marca de medida), tubo (perforación central) y mesa (base trasera).").m-auto
           figcaption Nota. Imagen tomada de  Motawi, W. M., & Motawi, A. M. (2021).
         .col-xl.ajustes___movil-3
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
@@ -135,7 +135,7 @@
             h5 Figura 7. 
             span Zonas técnicas de inclinación y soporte de la horma
           figure
-            img.mt-5.mb-3(src="@/assets/curso/tema4/img6.svg", alt="Imagen lateral de una horma verde que identifica partes esenciales: cono, punto de quiebre, enfranque, ángulo del asiento del talón y curva del talón.").m-auto
+            img(src="@/assets/curso/tema4/img6.svg", alt="Imagen lateral de una horma verde que identifica partes esenciales: cono, punto de quiebre, enfranque, ángulo del asiento del talón y curva del talón.").m-auto
           figcaption Nota. Imagen tomada de  Motawi, W. M., & Motawi, A. M. (2021).
         .col-xl.ajustes___movil-3
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
@@ -157,7 +157,7 @@
             h5 Figura 8. 
             span Referencias geométricas principales en la base de la horma
           figure
-            img.mt-5.mb-5(src="@/assets/curso/tema4/img7.svg", alt="Vista inferior de una horma verde donde se señalan referencias clave para el diseño del calzado: puntera, delantera, punto y línea de enfranque, línea del frente del tacón, canto plano del tacón y talonera. ").m-auto
+            img.mb-2(src="@/assets/curso/tema4/img7.svg", alt="Vista inferior de una horma verde donde se señalan referencias clave para el diseño del calzado: puntera, delantera, punto y línea de enfranque, línea del frente del tacón, canto plano del tacón y talonera. ").m-auto
           figcaption Nota. Imagen tomada de  Motawi, W. M., & Motawi, A. M. (2021).
         .col-xl.ajustes___movil-3
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
@@ -474,22 +474,12 @@
     
     p.mb-5 A medida que la talla aumenta, también lo hace la altura necesaria del tacón para mantener la misma proporción ergonómica y estética en el diseño del calzado.
     
-    .row.mb-4.justify-content-center
-      .col-lg-6
-        .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-up")
-          h5 Figura 12. 
-          span Relación entre la talla y la altura del tacón
-        figure(data-aos="fade-up")
-          img.my-4.mb-4(src="@/assets/curso/tema4/img19.svg", alt="Ilustración de varias hormas de calzado representadas por curvas superpuestas, cada una correspondiente a una talla distinta, desde la 1½ hasta la 8½. ").m-auto
-    
-    .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
-      .col-lg-auto
-        figure
-          img(src="@/assets/curso/tema1/img3.svg" style="max-width: 55px").m-auto
-      .col
-        h3 
-
-                 
+    .row(data-aos="zoom-in")
+      .titulo-sexto.color-acento-contenido.mb-3
+        h5 Figura 12. 
+        span Relación entre la talla y la altura del tacón
+      figure.estilo___caja_3
+        img(src="@/assets/curso/tema4/img19.svg", alt="Ilustración de varias hormas de calzado representadas por curvas superpuestas, cada una correspondiente a una talla distinta, desde la 1½ hasta la 8½." style="max-width: 610px").m-auto                 
 
 </template>
 

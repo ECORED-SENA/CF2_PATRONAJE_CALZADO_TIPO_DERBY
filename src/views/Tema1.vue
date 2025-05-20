@@ -165,7 +165,7 @@
     p.mb-5.ajustes___movil-1 Existen fórmulas que permiten convertir tallas entre los distintos sistemas. Las siguientes equivalencias son aproximadas y pueden variar según el fabricante.
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
-      h5 Tabla 2. 
+      h5 Tabla 1. 
       span Conversión de tallas de calzado
 
     .row.mb-4.align-items-center
@@ -205,7 +205,7 @@
       .col-xl-10
         p.mb-5 Para mayor precisión, se recomienda utilizar las tablas oficiales proporcionadas por cada marca, ya que la horma puede variar entre fabricantes. Además, no solo debe considerarse la longitud, sino también el ajuste general del calzado, sobre todo en modelos deportivos o de seguridad.
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
-          h5 Tabla 3. 
+          h5 Tabla 2. 
           span Tabla de equivalencias de sistemas de unidades
         .tabla-a.mb-4.ajuste--text(data-aos="fade-up")
           table
@@ -345,7 +345,7 @@
     .row.mb-5.ajustes___movil-1
       .col-xl-auto
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
-          h5 Tabla 4. 
+          h5 Tabla 3. 
           span Anchos para el sistema europeo o francés
         .tabla-a.mb-4.ajuste--text.ajuste___tabla_4(data-aos="fade-up")
           table
