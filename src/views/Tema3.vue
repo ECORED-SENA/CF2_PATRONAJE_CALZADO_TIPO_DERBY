@@ -34,7 +34,7 @@
         
     p.mb-4.ajustes___movil-1 Los pies presentan variaciones en su forma y estructura, lo que permite clasificarlos según distintos criterios. Uno de los más utilizados es la longitud de los dedos, ya que influye en la distribución del peso y la estabilidad al caminar. A continuación, se describen las principales tipologías de pies según su forma.
     
-    figure.mb-5(data-aos="zoom-in")
+    figure(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
