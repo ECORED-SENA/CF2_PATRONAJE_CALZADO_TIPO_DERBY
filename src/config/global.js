@@ -36,28 +36,23 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Materiales e insumos para calzado',
+        titulo: 'Sistemas de medidas de calzado',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Cueros',
+            titulo: 'Principales sistemas de numeración de calzado',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Sintéticos',
+            titulo: 'Conversión básica entre sistemas',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Textiles',
+            titulo: 'Medida de ancho o volumen del pie',
             hash: 't_1_3',
-          },
-          {
-            numero: '1.4',
-            titulo: 'Suelas',
-            hash: 't_1_4',
           },
         ],
       },
@@ -143,12 +138,6 @@ export default {
             hash: 't_5_2',
           },
         ],
-      },
-      {
-        nombreRuta: 'tema6',
-        numero: '6',
-        titulo: 'Líneas y puntos básicos para el desarrollo del patronaje',
-        desarrolloContenidos: true,
       },
     ],
     subMenu: [
