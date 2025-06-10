@@ -102,7 +102,7 @@
           .col-lg-4.estilo-text-tema3.ajuste___color_3
             p.mb-0 Uso
           .col-lg.estilo-text-tema3_1.ajuste___color_4
-            p.mb-0 Reino Unido, India, países de la <em>Commowealth</em>.
+            p.mb-0 Reino Unido, India, países de la <em>Commonwealth</em>.
         .row.mb-2.m-0(data-aos="fade-right")
           .col-lg-4.estilo-text-tema3.ajuste___color_3
             p.mb-0 Medida base
@@ -117,7 +117,7 @@
           .col-lg-4.estilo-text-tema3.ajuste___color_3
             p.mb-0 Diferencias
           .col-lg.estilo-text-tema3_1.ajuste___color_4
-            p.mb-0 Las tallas UK son una unidad menos que las tallas US ( ejemplo: UK8= US 9). Tiene menos variación entre tallas masculinas y femeninas. 
+            p.mb-0 Las tallas UK son una unidad menos que las tallas US ( ejemplo: UK8 = US 9). Tiene menos variación entre tallas masculinas y femeninas. 
       .col-xl-auto
         figure(data-aos="fade-left").d-none.d-xl-block
           img(src="@/assets/curso/tema3/img3.svg", alt="" style="max-width: 500px").m-auto

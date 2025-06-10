@@ -168,7 +168,7 @@
             .row(titulo="Línea de enfraque").ajuste-cajaAcordion
               p.mb-0 Punto donde el enfranque comienza a elevarse del suelo.
             .row(titulo="Línea del frente del tacón").ajuste-cajaAcordion
-              p.mb-0 Se ubica a un 25% de la longitud total de la horma, desde la parte trasera.
+              p.mb-0 Se ubica a un 25 % de la longitud total de la horma, desde la parte trasera.
             .row(titulo="Canto del plano del tacón").ajuste-cajaAcordion
               p.mb-0 Línea inferior que divide la talonera del enfranque.
             .row(titulo="Talonera (asiento del tacón)").ajuste-cajaAcordion
@@ -227,7 +227,7 @@
         .col-xl.ajustes___movil-3
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
             .row(titulo="Perímetro de la bola").ajuste-cajaAcordion
-              p.mb-0 También llamado perímetro de articulación. Se mide alrededor de la parte más ancha del antepié, conectando los puntos de la bola medial, la bola lateral y el punto de bridaje. Este punto se encuentra al 65% de la longitud plantar.
+              p.mb-0 También llamado perímetro de articulación. Se mide alrededor de la parte más ancha del antepié, conectando los puntos de la bola medial, la bola lateral y el punto de bridaje. Este punto se encuentra al 65 % de la longitud plantar.
             .row(titulo="Perímetro de retención").ajuste-cajaAcordion
               p.mb-0 Se mide desde el punto medio entre el perímetro de articulación y el perímetro de empeine hasta la mitad del cono. Se toma a 25 mm desde el punto de bridaje en el cono y 25 mm desde la línea de ancho de bola en la planta.
             .row(titulo="Perímetro de empeine").ajuste-cajaAcordion
@@ -284,7 +284,7 @@
             .row(titulo="Anchura de la cintura").ajuste-cajaAcordion
               p.mb-0 Se toma 25 mm detrás de la anchura plantar, en la parte media inferior de la horma.
             .row(titulo="Anchura del talón").ajuste-cajaAcordion
-              p.mb-0 Se mide en la base trasera, justo por delante de la talonera, a una distancia del 25% de la longitud plantar.
+              p.mb-0 Se mide en la base trasera, justo por delante de la talonera, a una distancia del 25 % de la longitud plantar.
             .row(titulo="Ancho de talón (cuboide)").ajuste-cajaAcordion
               p.mb-0 Corresponde al punto más ancho de la parte trasera de la horma.
             .row(titulo="Ancho de mesa").ajuste-cajaAcordion
@@ -435,7 +435,7 @@
     .row.mb-5
       .col-xl-auto
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
-          h5 Tabla 5. 
+          h5 Tabla 4. 
           span Clasificación de hormas según altura del tacón
         .tabla-a.mb-4.ajuste--text.ajuste___tabla_4(data-aos="fade-up")
           table

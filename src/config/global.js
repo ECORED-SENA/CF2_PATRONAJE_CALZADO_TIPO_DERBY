@@ -179,7 +179,7 @@ export default {
     {
       termino: 'Cuero',
       significado:
-        'material natural obtenido de la piel de animales, principalmente vacuno, que se somete a un proceso de curtido para hacerlo resistente y flexible. Se utiliza en la fabricación de calzado por su durabilidad, <em>confort</em> y capacidad de adaptarse a la forma del pie.',
+        'material natural obtenido de la piel de animales, principalmente vacuno, que se somete a un proceso de curtido para hacerlo resistente y flexible. Se utiliza en la fabricación de calzado por su durabilidad, confort y capacidad de adaptarse a la forma del pie.',
     },
     {
       termino: 'Horma',
@@ -199,7 +199,7 @@ export default {
     {
       termino: 'Textil',
       significado:
-        'material compuesto por fibras naturales (algodón, lino, lana) o sintéticas (poliéster, nylon) que se utiliza en la fabricación de calzado, especialmente en modelos deportivos y casuales, debido a su ligereza y transpirabilidad.',
+        'material compuesto por fibras naturales (algodón, lino, lana) o sintéticas (poliéster, nailon) que se utiliza en la fabricación de calzado, especialmente en modelos deportivos y casuales, debido a su ligereza y transpirabilidad.',
     },
   ],
   referencias: [
